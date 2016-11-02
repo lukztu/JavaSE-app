@@ -3,7 +3,7 @@
  */
 public class Resume {
 
-    // Unique identifier
+    // Unique identifier вв
     String uuid;
 
     @Override
